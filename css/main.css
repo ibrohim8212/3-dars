@@ -1,0 +1,26 @@
+body{
+    background-color: #83A3D2;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h2{
+    color: #8055B0;
+}
+
+.ul{
+    background-color: #fff;
+    text-align: center;
+    list-style: none;
+}
+
+.li-p{
+    color: #808080;
+}
+
+sub{
+    color: #8055B0;
+}
